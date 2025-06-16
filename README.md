@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 Hi ges, nama aku Azka umur 14 tahun dan saat ini tertarik ke dunia informatika.
-<!--
+aku baru disini hehe 
 **adilaazka/adilaazka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
